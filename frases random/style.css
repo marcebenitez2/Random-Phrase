@@ -1,0 +1,53 @@
+body {
+  background-color: #81C6E8;
+
+}
+
+.caja {
+  background-color: #5DA7DB;
+  border: 8px double #5837D0;
+  width: 30rem;
+  text-align: center;
+  padding: 2rem;
+  font-family: Impact, Charcoal, sans-serif;
+  color: #5837D0;
+  margin: 10rem auto;
+}
+
+#frase_random {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-variant: small-caps;
+  font-style: italic;
+  font-weight: 400;
+  -webkit-text-stroke: 1px black;
+  color: white;
+}
+
+#autor_random {
+  color: #5837D0;
+  font-size: large;
+  margin-left: 20rem;
+}
+
+
+.css-button-rounded--sky {
+  min-width: 130px;
+  height: 40px;
+  color: #fff;
+  padding: 5px 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  outline: none;
+  border-radius: 5px;
+  border: 2px solid #4433ff;
+  background: #4433ff;
+}
+
+.css-button-rounded--sky:hover {
+  background: #fff;
+  color: #4433ff
+}
